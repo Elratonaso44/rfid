@@ -1,5 +1,5 @@
 <?php
-
+//cambio para github
 $mensaje = $_POST['mensaje'];
 
 echo "Esp32 mando por POST: " . $mensaje."<br>";
